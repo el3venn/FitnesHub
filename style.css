@@ -1,0 +1,31 @@
+body{
+  background-color: #90f2fc;
+}
+nav a{
+  text-decoration: none;
+  font-size: 25px;
+ background-color: blue;
+  color: #90f2fc;
+  padding: 5px;
+  border-radius: 10px;
+}
+p{
+  margin: 5px;
+  color: blue;
+  font-size: 20px;
+}
+footer{
+  background-color: #5685fc;
+  
+}
+footer p{
+  color: #90f2fc;
+}
+footer a{
+  text-decoration: none;
+  font-size: 20px;
+ background-color: blue;
+  color: #90f2fc;
+  padding: 3px;
+  border-radius: 10px;
+}
